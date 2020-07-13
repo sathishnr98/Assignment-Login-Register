@@ -1,0 +1,45 @@
+{
+  "data" : [
+  
+    {
+      "name": "Categories",
+      "children": [
+        {
+          "name": "Social",
+          "url": "/child31"
+        },
+        {
+          "name": "Updates",
+          "url": "/child32"
+        }
+      ]
+    },
+    {
+      "name": "Important",
+      "children": [
+        {
+          "name": "Starred",
+          "url": "/child41"
+        },
+        {
+          "name": "Unstarred",
+          "url": "/child42"
+        },
+        {
+          "name": "Sent",
+          "children": [
+            {
+              "name": "Schduled",
+              "url": "/child431"
+              
+            },
+            {
+              "name": "Drafts",
+              "url": "/child432,"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
